@@ -10,6 +10,6 @@
     "type": "sidebar",
     "title": "another widget",
     "name": "another-widget",
-    "channelId": "117404171",
+    "channelId": "117404500",
     "layout": "bootstrap"
 }
